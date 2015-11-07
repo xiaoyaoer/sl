@@ -1,8 +1,6 @@
-Requirement
+DailyPractice
 ===========
 
-Python2.7
----------
 
 Check the version:
 

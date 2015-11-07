@@ -17,10 +17,9 @@ Contents
    :maxdepth: 2
    :caption: Documentation
 
-   Personal State
    CHINESE
    ENGLISH
-   Daily Practice
+   DailyPractice
    MyBlog
    About
 
